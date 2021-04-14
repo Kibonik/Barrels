@@ -1,0 +1,10 @@
+C:\Users\nikei\source\repos\Barrels\Barrels\bin\Debug\Barrels.exe.config
+C:\Users\nikei\source\repos\Barrels\Barrels\bin\Debug\Barrels.exe
+C:\Users\nikei\source\repos\Barrels\Barrels\bin\Debug\Barrels.pdb
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.csprojAssemblyReference.cache
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.Form1.resources
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.Properties.Resources.resources
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.csproj.GenerateResource.cache
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.csproj.CoreCompileInputs.cache
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.exe
+C:\Users\nikei\source\repos\Barrels\Barrels\obj\Debug\Barrels.pdb
